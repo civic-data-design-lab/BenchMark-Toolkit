@@ -1,0 +1,19 @@
+{
+  "filename" : "G0041619.JPG",
+  "folder" : "GoPro_0728",
+  "image_w_h" : [
+    4000,
+    3000
+  ],
+  "objects" : [
+    {
+      "label" : "Bench",
+      "x_y_w_h" : [
+        3418,
+        1447,
+        72,
+        66
+      ]
+    }
+  ]
+}
