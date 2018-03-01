@@ -1,6 +1,6 @@
 
 
-# BenchMark
+# BenchMark Toolkit
 
 http://civicdatadesignlab.mit.edu/
 
